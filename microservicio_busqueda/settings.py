@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'search_rutas',
         'USER': 'admin',
-        'PASSWORD': 'parsalian1',
+        'PASSWORD': '',
         'HOST': 'database-lab2-search-microservice.czvnjcig55lm.us-east-1.rds.amazonaws.com',
         'PORT': '3306'
     }
